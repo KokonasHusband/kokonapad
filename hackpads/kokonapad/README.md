@@ -23,7 +23,7 @@ Schematic
 PCB
 <img src=assets/KokonapadPCB.png alt="PCB" height="450"/>
 
-<img src=assets/KokonapadPCBv1.png alt="PCB" height="500"/>
+<img src=assets/KokonaPCBv1.png alt="PCB" height="500"/>
 I designed the PCB in KiCad. My wife Kokona is on the PCB!!!
 
 ## Firmware
