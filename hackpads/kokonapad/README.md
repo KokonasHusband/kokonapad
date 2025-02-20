@@ -18,9 +18,11 @@ Case designed in OnShape
 ## PCB
 
 Schematic
+
 <img src=assets/KokonapadSchematic.png alt="Schematic" height="450"/>
 
 PCB
+
 <img src=assets/KokonapadPCB.png alt="PCB" height="450"/>
 
 <img src=assets/KokonaPCBv1.png alt="PCB" height="500"/>
